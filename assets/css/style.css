@@ -57,6 +57,7 @@ body {
     width: 100px;
     background: #313131;
     border-radius: 50%;
+    box-shadow: 2px 2px 0px 0px rgb(172, 170, 170);
     cursor: pointer;
     font-size: 45px;
     transition: filter 0.3s;
@@ -64,7 +65,7 @@ body {
 
 .button.function {
     color: black;
-    background: #a0a0a0;
+    background: #5f5e5e;
 }
 
 .button.operator {
